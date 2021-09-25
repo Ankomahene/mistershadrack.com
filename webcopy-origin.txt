@@ -1,0 +1,596 @@
+Uri: https://mistershadrack.com/
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\index.htm
+Content Type: text/html
+
+Uri: https://mistershadrack.com/wp-content/themes/astra/assets/fonts/astra.woff
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\themes\astra\assets\fonts\astra.woff
+Content Type: font/woff
+
+Uri: https://mistershadrack.com/wp-content/themes/astra/assets/fonts/astra.ttf
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\themes\astra\assets\fonts\astra.ttf
+Content Type: font/ttf
+
+Uri: https://mistershadrack.com/wp-content/themes/astra/assets/fonts/astra.svg
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\themes\astra\assets\fonts\astra.svg
+Content Type: image/svg+xml
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://mistershadrack.com/feed/
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://mistershadrack.com/comments/feed/
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://mistershadrack.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=3.6.8
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\themes\astra\assets\css\minified\frontend.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Rubik:400%2C500|Poppins:600&display=fallback&ver=3.6.8
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\css.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=3.6.8
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\themes\astra\assets\css\minified\menu-animation.min.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/uploads/elementor/css/post-505.css?ver=1629310836
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\elementor\css\post-505.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.8.3
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.8.3
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/uploads/elementor/css/post-506.css?ver=1632589220
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\elementor\css\post-506.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/uploads/elementor/css/post-96.css?ver=1629320616
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\elementor\css\post-96.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\css-1.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-json/
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://mistershadrack.com/wp-json/wp/v2/pages/506
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-json\wp\v2\pages\506.json
+Content Type: application/json
+
+Uri: https://mistershadrack.com/xmlrpc.php?rsd
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://mistershadrack.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://mistershadrack.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmistershadrack.com%2F
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://mistershadrack.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmistershadrack.com%2F&format=xml
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/Ankomahene-Shadrack-e1629306812184-150x150.jpg
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\Ankomahene-Shadrack-e1629306812184-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/Ankomahene-Shadrack-e1629306812184.jpg
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\Ankomahene-Shadrack-e1629306812184.jpg
+Content Type: image/jpeg
+
+Uri: https://mistershadrack.com/video-templates/
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\video-templates\index.htm
+Content Type: text/html
+
+Uri: https://mistershadrack.com/contact/
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/mister_shadrackk/
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\mister_shadrackk\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/Mister_Shadrack
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\Mister_Shadrack.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCwRmUP86ImuoS-Ss-RAEKWg
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\channel\UCwRmUP86ImuoS-Ss-RAEKWg.html
+Content Type: text/html
+
+Uri: https://mistershadrack.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/table-of-content.min.css?ver=4.8.3
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\table-of-content.min.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.8.3
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/cropped-mister-shadrack-black-260x28.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\cropped-mister-shadrack-black-260x28.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2020/10/mister-shadrack.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2020\10\mister-shadrack.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/IMG_3269-scaled.jpg
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\IMG_3269-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/web-design-1-1024x630.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\web-design-1-1024x630.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/graphic-design-1-1024x630.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\graphic-design-1-1024x630.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/output_HD720_2-1.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\output_HD720_2-1.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/output_HD720-1.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\output_HD720-1.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/output_HD720_5.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\output_HD720_5.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=3.6.8
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-includes/js/wp-embed.min.js?ver=5.8.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/table-of-content.min.js?ver=4.8.3
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\table-of-content.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.4.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.4.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-includes/js/underscore.min.js?ver=1.13.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-includes/js/wp-util.min.js?ver=5.8.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.8.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/cropped-mister-shadrack-black-300x32.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\cropped-mister-shadrack-black-300x32.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/cropped-mister-shadrack-black-768x83.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\cropped-mister-shadrack-black-768x83.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/cropped-mister-shadrack-black.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\cropped-mister-shadrack-black.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2020/10/mister-shadrack-300x50.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2020\10\mister-shadrack-300x50.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2020/10/mister-shadrack-768x128.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2020\10\mister-shadrack-768x128.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2020/10/mister-shadrack-200x33.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2020\10\mister-shadrack-200x33.png
+Content Type: image/png
+
+Uri: https://wordpress.org/
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\index-1.htm
+Content Type: text/html
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.12.0
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.12.0
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff2
+Content Type: font/woff2
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.12.0
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff
+Content Type: font/woff
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.12.0
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.ttf
+Content Type: font/ttf
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.12.0
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://mistershadrack.com/wp-content/uploads/2020/10/online-programming-course-hero-section-bg.svg
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2020\10\online-programming-course-hero-section-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://mistershadrack.com/wp-content/uploads/2020/10/online-programming-courses-section-bg.svg
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2020\10\online-programming-courses-section-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://mistershadrack.com/wp-content/uploads/2020/10/online-coding-course-dots-bg.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2020\10\online-coding-course-dots-bg.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2020/10/online-programming-course-cta-section-bg.svg
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2020\10\online-programming-course-cta-section-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/toturial-intro.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\toturial-intro.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/fmt-logo-reveal.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\fmt-logo-reveal.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/vlcsnap-2021-08-19-01h22m43s145.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\vlcsnap-2021-08-19-01h22m43s145.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/vlcsnap-2021-08-19-01h24m40s666.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\vlcsnap-2021-08-19-01h24m40s666.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/vlcsnap-2021-08-19-01h26m15s934.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\vlcsnap-2021-08-19-01h26m15s934.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/vlcsnap-2021-08-19-01h28m22s544.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\vlcsnap-2021-08-19-01h28m22s544.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/interview-intro-cover.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\interview-intro-cover.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/mobilr-app-showcase-cover.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\mobilr-app-showcase-cover.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/sports-news-cover.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\sports-news-cover.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/animated-explainer-video-showcase-cover.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\animated-explainer-video-showcase-cover.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/animated-video-cover.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\animated-video-cover.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/albulm-promo-visualizer-cover.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\albulm-promo-visualizer-cover.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/music-visualier-cover.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\music-visualier-cover.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/3D-video-text-cover.png
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\3D-video-text-cover.png
+Content Type: image/png
+
+Uri: https://mistershadrack.com/wp-content/uploads/elementor/css/post-179.css?ver=1629382703
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\elementor\css\post-179.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-json/wp/v2/pages/179
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-json\wp\v2\pages\179.json
+Content Type: application/json
+
+Uri: https://mistershadrack.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmistershadrack.com%2Fvideo-templates%2F
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://mistershadrack.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmistershadrack.com%2Fvideo-templates%2F&format=xml
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/output_HD720_2.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\output_HD720_2.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/fmt-minimal-logo-pack-1.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\fmt-minimal-logo-pack-1.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/fmt-solid-logo-reveal.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\fmt-solid-logo-reveal.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/simple-3D-logo.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\simple-3D-logo.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/smashing-ingot-logo.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\smashing-ingot-logo.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/interview-intro.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\interview-intro.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/Mobile-App-Kit-1.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\Mobile-App-Kit-1.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/Sport-News-1.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\Sport-News-1.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/Showcase.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\Showcase.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/Animated-Video-01-1.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\Animated-Video-01-1.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/Albulm-Promo-Visualizer-1.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\Albulm-Promo-Visualizer-1.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/2021/08/3D-Video-Text-1.mp4
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\2021\08\3D-Video-Text-1.mp4
+Content Type: video/mp4
+
+Uri: https://mistershadrack.com/wp-content/uploads/elementor/css/post-332.css?ver=1629325397
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\uploads\elementor\css\post-332.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/plugins/wpforms-lite/assets/css/wpforms-base.min.css?ver=1.6.8.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\wpforms-lite\assets\css\wpforms-base.min.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-json/wp/v2/pages/332
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-json\wp\v2\pages\332.json
+Content Type: application/json
+
+Uri: https://mistershadrack.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmistershadrack.com%2Fcontact%2F
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://mistershadrack.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmistershadrack.com%2Fcontact%2F&format=xml
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://mistershadrack.medium.com/
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\index-2.htm
+Content Type: text/html
+
+Uri: https://github.com/ankomahene
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\ankomahene.html
+Content Type: text/html
+
+Uri: https://mistershadrack.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/reading-progress.min.css?ver=4.8.3
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\reading-progress.min.css
+Content Type: text/css
+
+Uri: https://mistershadrack.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/reading-progress.min.js?ver=4.8.3
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\reading-progress.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.0
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\wpforms-lite\assets\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\wpforms-lite\assets\js\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: https://mistershadrack.com/wp-content/plugins/wpforms-lite/assets/js/wpforms.js?ver=1.6.8.1
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\wpforms-lite\assets\js\wpforms.js
+Content Type: application/javascript
+
+Uri: https://web.facebook.com/shadrack.ankomahene.1?_rdc=1&_rdr
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\shadrack.ankomahene.1.html
+Content Type: text/html
+
+Uri: https://mistershadrack.com/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\wp-content\plugins\wpforms-lite\assets\images\times-solid-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.google.com/maps/embed?origin=mfe&pb=!1m4!2m1!1sAchimata,+Mile+7!5e0!6i16
+File Name: C:\Users\Mister Shadrack\Downloads\Mister Shadrack\mistershadrack.com\maps\embed.html
+Content Type: text/html
+
